@@ -18,7 +18,7 @@ exports.dbSettings = {
     user: "sa",
     password: "Alexxxander123.***",
     server: "20.125.123.33",
-    database: "ED-PRO",
+    database: "GRUPOJ",
     options: {
         encrypt: true,
         trustServerCertificate: true, // change to true for local dev / self-signed certs
