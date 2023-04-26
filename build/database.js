@@ -15,9 +15,9 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.dbSettings = void 0;
 const mssql_1 = __importDefault(require("mssql"));
 exports.dbSettings = {
-    user: "sa",
-    password: "Alexxxander123.***",
-    server: "20.125.123.33",
+    user: "Diegol_SQLLogin_1",
+    password: "cr9dxs9job",
+    server: "MinimarketGJ.mssql.somee.com",
     database: "GRUPOJ",
     options: {
         encrypt: true,
